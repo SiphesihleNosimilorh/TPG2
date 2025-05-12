@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001928969727",
+    "project_id": "tpg-assignment2-39126",
+    "storage_bucket": "tpg-assignment2-39126.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001928969727:android:f1a88ca07c8449ebe86bca",
+        "android_client_info": {
+          "package_name": "com.example.assingemt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0urR6pyWGp-SRhoMAvzEWI-6I7bGhMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
